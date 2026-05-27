@@ -18,7 +18,8 @@ Coastal urbanization exposes marine ecosystems to nutrient pollution via wastewa
 ### Supporting Materials 
   1. [Raw sequence](https://doi.org/10.6084/m9.figshare.29481053) 
   2. [Data](3_data)
-  3. [Figures](2_figure/260304_mergeFigure.pdf)
-  4. [Tables](2_figure/260304_mergeTable.pdf)
-  5. [Supplementary Materials](2_figure/260305_supplementaryMaterials_FIN.pdf)
+  3. [Figures](2_figure)
+  4. [Tables](3_table)
+  5. [Supplementary Materials](4_sup)
+  6. [Code](5_code)
 
